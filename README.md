@@ -1,5 +1,6 @@
 # work-demo
 Previous work demo
+![job-details-streaming-8d8e029ba4db8fc8442b64e24668fa5f](https://github.com/user-attachments/assets/df06319d-7e4a-471f-935f-7631b84ef923)
 ![IMG_4622](https://github.com/user-attachments/assets/a0ba5ef3-080d-44e8-8705-c4d230a4401a)
 ![IMG_4637](https://github.com/user-attachments/assets/a4a48f8c-a931-4a66-a869-ffee709872ef)
 ![IMG_4636](https://github.com/user-attachments/assets/2c11fccf-d666-4111-b2fd-e4df0b73e08e)
