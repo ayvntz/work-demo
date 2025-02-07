@@ -14,7 +14,7 @@ After Step 3, Start Ingestion data, directing people to Table Details View. They
 While switching tabs, the selections of the policies will be remembered and validated before submitting the form.
 ![IMG_4627](https://github.com/user-attachments/assets/6b09cb90-d5a5-44d7-8758-eb2746b3187b)
 ![IMG_4637](https://github.com/user-attachments/assets/a4a48f8c-a931-4a66-a869-ffee709872ef)
-![IMG_4636](https://github.com/user-attachments/assets/2c11fccf-d666-4111-b2fd-e4df0b73e08e)
+
 #### Table Details (Empty State)
 ![IMG_4629](https://github.com/user-attachments/assets/c85aec76-9f41-4999-9c4d-ff5f8114261f)
 #### Edit Table View
