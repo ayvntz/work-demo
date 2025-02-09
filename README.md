@@ -8,7 +8,7 @@ Previous work demo - React, ReactTable, ReactQuery, stitches, Radix UI, React Ho
 ![IMG_4622](https://github.com/user-attachments/assets/a0ba5ef3-080d-44e8-8705-c4d230a4401a)
 ![IMG_4623](https://github.com/user-attachments/assets/4fa4f9ed-abae-499d-8b4d-1c51032a6613)
 ![IMG_4625](https://github.com/user-attachments/assets/59f55a38-8f21-427c-89ea-26cd4fb2f963)
-![IMG_4634](https://github.com/user-attachments/assets/266b7dad-0cb8-4d34-8f93-3044065b2eb5
+![IMG_4634](https://github.com/user-attachments/assets/266b7dad-0cb8-4d34-8f93-3044065b2eb5)
 #### Table Details View 
 After Step 3, Start Ingestion data, directing people to Table Details View. They can update data storage policy, check job status(ingested data job) by clicking the side panel with the corresponding job.
 While switching tabs, the selections of the policies will be remembered and validated before submitting the form.
